@@ -28,7 +28,7 @@ Run "npm start" to deploy the program.
 [Deployed Application](https://pwa-text-editor-pkvg.onrender.com)
 
 # Screenshots
-![Screenshot](./assets/screenshot-1.jpg)
+![Screenshot](./assets/screenshot-of-application.png)
 
 # Questions
 Github Profile?
